@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data and generated files
+archive/
+search_history.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Caches
+.pytest_cache/

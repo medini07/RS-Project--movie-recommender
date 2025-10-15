@@ -1,0 +1,28 @@
+/* Basic Streamlit styling enhancements */
+.stApp {
+  background-color: #0b0f19;
+  color: #e6e6e6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+.stButton>button {
+  background: linear-gradient(135deg, #4f46e5 0%, #06b6d4 100%);
+  color: white;
+  border: none;
+}
+
+.stButton>button:hover {
+  filter: brightness(1.1);
+}
+
+.stSelectbox label, .stTextInput label {
+  color: #cbd5e1;
+}
+
+.stCaption, .st-emotion-cache-0 {
+  color: #9aa4b2 !important;
+}
+

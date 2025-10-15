@@ -1,0 +1,8 @@
+* text=auto
+
+# Keep common binary types untouched
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
